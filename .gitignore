@@ -1,0 +1,7 @@
+venv/
+.idea/
+data/
+02-experiment-tracking/mlruns
+/02-experiment-tracking/mlflow.db
+**/artifacts/*
+**/*-checkpoint*
