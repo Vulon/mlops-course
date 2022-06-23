@@ -6,3 +6,4 @@ notebook
 matplotlib
 mlflow
 hyperopt
+prefect==2.0b5
